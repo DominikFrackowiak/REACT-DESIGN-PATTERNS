@@ -1,6 +1,8 @@
-const listOfNames = ['Andrzy', 'Michal', 'Marian', 'Dawid']
+interface Props {
+	listOfNames: string[]
+}
 
-export default function List() {
+export default function List({ listOfNames }: Props) {
 	return (
 		<ul>
 			{listOfNames.map(name => (
