@@ -1,4 +1,4 @@
-const listOfNames = ['Andrzy', 'Michal', 'Marian', 'Dawid']
+const listOfNames = ['Andrew', 'Michal', 'Marian', 'Dawid']
 
 export default function List() {
 	return (
