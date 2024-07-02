@@ -1,13 +1,13 @@
 import './App.css'
-import withSearch from './hocs/withSearch'
-import List from './components/List'
 
 function App() {
-	const ListWithSearch = withSearch(List)
-
 	return (
 		<>
-			<ListWithSearch />
+			<h1>REACT.JS DESIGN PATTERNS</h1>
+			<ul>
+				<li>HIGHER ORDER COMPONENTS (HOC)</li>
+				<li>PRESENTATIONAL AND CONTAINER</li>
+			</ul>
 		</>
 	)
 }
