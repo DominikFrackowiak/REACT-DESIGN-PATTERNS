@@ -1,7 +1,10 @@
 # React Design Patterns
-# List:
+This repository demonstrates various design patterns in React, providing practical examples to help understand their applications in web development.
+
+# Patterns Covered:
 - HIGHER ORDER COMPONENT
 - CONTAINER AND PRESENTATIONAL
 
-YOU CAN FIND EXAMPLES OF EVERY ONE OF THEM CHANGING BRANCHES 
+# Navigating the Repository:
+Switch between branches to explore examples of each pattern. Each branch is named after the pattern it demonstrates.
 
